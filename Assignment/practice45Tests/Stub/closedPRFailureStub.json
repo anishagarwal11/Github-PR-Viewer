@@ -1,0 +1,11 @@
+//
+//  closedPRFailureStub.swift
+//  practice45Tests
+//
+//  Created by Anish Agarwal on 07/11/22.
+//
+
+{
+    "type": "error",
+    "message": "API not available"
+}
